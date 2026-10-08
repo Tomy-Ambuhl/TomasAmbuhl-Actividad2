@@ -1,0 +1,16 @@
+h1 {
+    color: darkslategray;
+    font-size: x-large;
+}
+li {
+    color: rgb(163, 156, 156);
+    font-size: small;
+}
+h2 {
+    font-size: large;
+    color: rgb(66, 77, 88);
+}
+h3{
+    font-size: medium;
+    color: rgb(99, 91, 91);
+}
